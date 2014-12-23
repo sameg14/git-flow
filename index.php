@@ -1,4 +1,5 @@
 <?php 
+echo 'RUle the world';
 echo 'Fixed navigation';
 
 phpinfo();
