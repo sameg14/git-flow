@@ -1,4 +1,6 @@
 <?php 
+echo 'Fixed navigation';
+
 phpinfo();
 
 echo 'My Customer request feature';
